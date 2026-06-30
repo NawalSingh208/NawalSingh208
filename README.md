@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Nawal, a B.Tech student in **Automation & Robotics* from India.
+I'm Nawal, a B.Tech student in *Automation & Robotics* from India.
 
 I'm currently learning Python, and exploring the world of robotics, automation, and AI.
 
