@@ -12,9 +12,11 @@ I enjoy building projects, learning new technologies, and improving my coding sk
 ## 🎮 Outside of Coding
 Call of Duty: Mobile | Story-driven PC games
 
-🎯 Goals
+## 🎯 Goals
 • Build real-world hardware and software projects.
+
 • Contribute to open-source robotics repositories.
+
 • Become a highly skilled Robotics & Automation Engineer.
 
 ---
