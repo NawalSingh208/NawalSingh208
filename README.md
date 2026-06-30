@@ -7,12 +7,10 @@ I'm currently learning Python, and exploring the world of robotics, automation, 
 I enjoy building projects, learning new technologies, and improving my coding skills one step at a time.
 
 ## 🔧 Currently Working On
-➡ 🐍 Python
-➡ 🤖 Robotics & Automation
+🐍 Python | 🤖 Robotics & Automation
 
 ## 🎮 Outside of Coding
-➡ Call of Duty: Mobile
-➡ Story-driven PC games
+Call of Duty: Mobile | Story-driven PC games
 
 🎯 Goals
 • Build real-world hardware and software projects.
