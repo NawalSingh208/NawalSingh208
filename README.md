@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**NawalSingh208/NawalSingh208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nawal, a B.Tech student in **Automation & Robotics* from India.
 
-Here are some ideas to get you started:
+I'm currently learning Python, and exploring the world of robotics, automation, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, learning new technologies, and improving my coding skills one step at a time.
+
+## 🔧 Currently Working On
+➡ 🐍 Python
+➡ 🤖 Robotics & Automation
+
+## 🎮 Outside of Coding
+➡ Call of Duty: Mobile
+➡ Story-driven PC games
+
+🎯 Goals
+• Build real-world hardware and software projects.
+• Contribute to open-source robotics repositories.
+• Become a highly skilled Robotics & Automation Engineer.
+
+---
+
+> "Learn. Build. Improve. Repeat." 🚀
